@@ -2,14 +2,15 @@ package com.stakeroute.exercise3;
 
 public class ExceptionType {
     public static void main(String[] args) {
-//        NegativeArraySizeException
+
+        //NegativeArraySizeException
         try{
             int arr[]=new int[-3];
         }catch(NegativeArraySizeException e){
             System.out.println(e);
         }
 
-//        IndexOutOfBoundsException
+        //IndexOutOfBoundsException
         try{
             int arr[]=new int[3];
             arr[3]=30;
@@ -17,7 +18,7 @@ public class ExceptionType {
             System.out.println(e);
         }
 
-//        NullPointerException
+        //NullPointerException
         try{
             int arr[]=null;
             int length=arr.length;

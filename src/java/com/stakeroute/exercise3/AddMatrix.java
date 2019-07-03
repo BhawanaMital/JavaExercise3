@@ -1,19 +1,23 @@
 package com.stakeroute.exercise3;
 
 public class AddMatrix {
+    //Instance Variable
 
     private int[][] matrix1;
     private int[][] matrix2;
 
+    //Intialising Matrix1
     public void setMatrix11(int[][] matrix1){
         this.matrix1=matrix1;
 
     }
 
+    //Intialising Matrix2
     public void setMatrix2(int[][] matrix2){
+
         this.matrix2=matrix2;
     }
-
+    //Addition Of Matrices
     public int[][] addOfMatrix(){
         if (matrix1==null || matrix2==null)
             return null;

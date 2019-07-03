@@ -4,7 +4,9 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class WeekDay {
+
     public Date firstDayOfWeek(Date date){
+        //Creating Calender class object and setting the time and date of first day of the week
         Calendar calendar= Calendar.getInstance();
         calendar.setTime(date);
         calendar.setFirstDayOfWeek(Calendar.MONDAY);
@@ -14,6 +16,8 @@ public class WeekDay {
     }
 
     public Date lastDayOfWeek( Date date){
+
+        //Creating Calender class object and setting the time and date of first day of the week
         Calendar calendar=Calendar.getInstance();
         calendar.setTime(date);
         calendar.setFirstDayOfWeek(Calendar.MONDAY);

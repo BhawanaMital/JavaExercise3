@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d6a7767-108f-47d7-9092-ac7e93a80de2" name="Default Changelist" comment="" />
+    <list default="true" id="1d6a7767-108f-47d7-9092-ac7e93a80de2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +28,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -29,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CountryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,16 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Assignment and exercise/JavaExercise1/src/java/com/stakeroute/exercise1/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java">
+        <entry file="file://$PROJECT_DIR$/../Assignment and exercise/JavaExercise1/src/java/com/stakeroute/exercise1/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="396">
+              <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -65,22 +89,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/SeriesNumberTest.java">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="544">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../exercise2/src/main/com/stakeroute/exercise2/CountFrequencyWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -95,24 +134,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CheckGradesTest.groovy" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CheckGradesTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/AddMatrixTest.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/WeekDayTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CountryTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/ChessTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java" />
         <option value="$PROJECT_DIR$/src/test/com/stakeroute/exercise3/SeriesNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java" />
-        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java" />
+        <option value="$PROJECT_DIR$/../Assignment and exercise/JavaExercise1/src/java/com/stakeroute/exercise1/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java" />
+        <option value="$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java" />
+        <option value="$PROJECT_DIR$/../exercise2/src/main/com/stakeroute/exercise2/CountFrequencyWord.java" />
       </list>
     </option>
   </component>
@@ -127,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,8 +249,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,6 +256,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -369,7 +414,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3066577" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31136516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -409,48 +454,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/AddMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/ChessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/SeriesNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -464,55 +471,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/SeriesNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="459">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/AddMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Chess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/ChessTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CountryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="561">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -520,7 +506,73 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Assignment and exercise/JavaExercise1/src/java/com/stakeroute/exercise1/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/stakeroute/exercise3/CountryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/WeekDay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/CheckGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/SeriesNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/stakeroute/exercise3/ExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../exercise2/src/main/com/stakeroute/exercise2/CountFrequencyWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
